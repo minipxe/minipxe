@@ -1,1 +1,1 @@
-# pixivlab
+# mini PXE
